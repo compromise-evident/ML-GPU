@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/compromise-evident/ML-GPU/refs/heads/main/Other/Configurable.png">
 </p>
 
 <br>
@@ -72,7 +72,7 @@ grey/black slots only: if 2 RAM stick
 ### MB power button pins (short them or attach momentary-switch)
 
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/compromise-evident/ML-GPU/refs/heads/main/Other/Power_button_pins.png">
 </p>
 
 <br>
