@@ -69,7 +69,7 @@ grey/black slots only: if 2 RAM stick
 <br>
 <br>
 
-### MB power button pins (short them or attach momentary switch)
+### MB power button pins (short them or attach momentary-switch)
 
 <p align="center">
   <img src="">
